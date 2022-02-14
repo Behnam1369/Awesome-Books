@@ -3,7 +3,6 @@
 # Portfolio
 My personal portfolio
 
-
 > Awesome book project / Microverse full-stack developer program / Week 7 / Rebuilding project using modules  
 
 ![screenshot](Demo.png)
