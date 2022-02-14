@@ -8,6 +8,7 @@ export default class BookList {
   }
 
   updateList() {
+    console.log(localStorage.books);
     if (this.books.length === 0) {
       this.htmlResult = '<div class="no-book">There is no book in collection yet. Click <a href="#add-new">here</a> to add first book.<div>';
     } else {
