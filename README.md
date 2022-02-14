@@ -4,7 +4,7 @@
 My personal portfolio
 
 
-> I am going to create my first repoitory of Microverse program on github. It's going to be fun.
+> Awesome book project / Microverse full-stack developer program / Week 7 / Rebuilding project using modules  
 
 ![screenshot](Demo.png)
 
