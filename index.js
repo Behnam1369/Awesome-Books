@@ -1,7 +1,8 @@
-import { DateTime } from './node_modules/luxon/src/luxon.js';
 import Navigator from './modules/navigator.js';
 import BookList from './modules/bookList.js';
 import Book from './modules/book.js';
+// @ts-ignore
+import { DateTime } from './node_modules/luxon/src/luxon.js';
 
 function showTime() {
   const currentDate = DateTime.local().toFormat('yyyy-MMM-dd');
