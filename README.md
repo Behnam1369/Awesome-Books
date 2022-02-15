@@ -1,7 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio
-My personal portfolio
+# Awesome Books
 
 > Awesome book project / Microverse full-stack developer program / Week 7 / Rebuilding project using modules  
 
@@ -15,6 +14,10 @@ Additional description about the project and its features.
 - CSS
 - Javascript (ECMA6)
 - NPM
+
+## Setup guide
+I have used [Luxon](https://moment.github.io/luxon/#/) in this project. So for using on your local machine you will need to install it after clone by running `npm install --save luxon`
+
 
 ## Live Demo
 

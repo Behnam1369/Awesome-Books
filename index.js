@@ -3,11 +3,11 @@ import Navigator from './modules/navigator.js';
 import BookList from './modules/bookList.js';
 import Book from './modules/book.js';
 
-function showTime() {
+const showTime = () => {
   const currentDate = DateTime.local().toFormat('yyyy-MMM-dd');
   const currentTime = DateTime.local().toFormat('hh:mm:ss');
   document.querySelector('.time').innerHTML = `Date: ${currentDate}  Time:${currentTime}`;
-}
+};
 
 window.addEventListener('load', () => {
   const nav1 = new Navigator();
